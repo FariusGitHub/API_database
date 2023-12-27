@@ -938,5 +938,4 @@ INSERT INTO nhl (PlayerName, Team, Pos, Games, GOverall, AOverall, Pts, PlusMinu
 ('Jeremy Davies', 'BUF', 'D', 1, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 1),
 ('Luke Philp', 'CHI', 'C', 3, 0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 4, 0),
 ('Mac Hollowell', 'NYR', 'D', 6, 0, 2, 2, 3, 2, 4, 0, 0, 0, 0, 0, 3, 6);
-exit;
 EOF
