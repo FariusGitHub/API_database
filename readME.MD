@@ -29,8 +29,11 @@ Herewith the step to setup this project:
     
     If your public IP address is 100.27.24.139
     then the three endpoints should be accessible through
+
     http://100.27.24.139:5000/players
+    
     http://100.27.24.139:5000/toronto
+    
     http://100.27.24.139:5000/points
 
 3. Bootstrap Frontend
